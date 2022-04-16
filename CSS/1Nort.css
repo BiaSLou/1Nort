@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+body {
+    font-family: Merriweather Sans;
+    background-color: #ede9f8;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.header {
+padding: 20px;
+text-align: center;
+color: black;
+font-weight: bold;
+font-size: 32px;
+}
+
+
+h2 {
+    background-color: #bbbbdc60;
+    text-align: center;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    width: 150px;
+    text-align: center;
+}
